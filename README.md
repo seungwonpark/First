@@ -4,6 +4,8 @@ The first file I make in GitHub.
 내가 github에서 만들어보는 첫 파일임
 으으 아직 md파일이 뭔지 모르겠다
 github에서의 txt파일같은 거인듯...
+markdown파일이라고 합니다 (by hletrd)
+
 코드를 어떻게 올리는건지도 모르겠고
 github for windows가 아직 나에게 필요한 거인지도 모르겠다
 일단 깔고 보자 ㅁㄴㅇㄹ
